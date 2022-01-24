@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Brandon Alloe.
-- 👀 I’m interested in collaborating with new 
+- 👀 I’m interested in collaborating with new faces and discuss new learning options in web and game development.
 - 🌱 I’m currently learning how to build web pages, game development, and graphic design elements.
 - 💞️ I’m looking to collaborate on projects involving new web and game development technologies and projects.
 - 📫 You can always send me an email at Brandon.Alloe@hotmail.com.
